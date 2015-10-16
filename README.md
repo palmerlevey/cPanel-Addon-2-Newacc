@@ -1,5 +1,7 @@
-function to copy a cpanel addon domain to a new account
+[![Analytics](https://ga-beacon.appspot.com/UA-68951009-1/palmerlevey/cPanel-Addon-2-Newacc)](https://github.com/palmerlevey/cPanel-Addon-2-Newacc)
 
-cpanel docs https://documentation.cpanel.net/display/CKB/Copy+an+Addon+Domain+to+a+New+Account
+Work in progress function to copy a cpanel addon domain to a new account.
+
+[cPanel Official Documents](https://documentation.cpanel.net/display/CKB/Copy+an+Addon+Domain+to+a+New+Account)
 
 [![asciicast](https://asciinema.org/a/48vov5xnoqjs96m5qpen5w83o.png)](https://asciinema.org/a/48vov5xnoqjs96m5qpen5w83o)
