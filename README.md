@@ -1,4 +1,4 @@
-[![Analytics](https://ga-beacon.appspot.com/UA-68951009-1/palmerlevey/cPanel-Addon-2-Newacc)](https://github.com/palmerlevey/cPanel-Addon-2-Newacc)
+[![Analytics](https://ga-beacon.appspot.com/UA-68951009-1/palmerlevey/cPanel-Addon-2-Newacc)](https://github.com/palmerlevey/cPanel-Addon-2-Newacc) [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/palmerlevey/cpanel-addon-2-newacc/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
 Work in progress function to copy a cpanel addon domain to a new account.
 
